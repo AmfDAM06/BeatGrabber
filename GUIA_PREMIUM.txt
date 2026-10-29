@@ -1,0 +1,29 @@
+👑 GUÍA PARA USUARIOS PREMIUM (Crea tu propio pase VIP)
+
+Si quieres usar BeatGrabber sin límites y sin pedirle permiso al creador, puedes generar tus propias claves gratuitas en 2 minutos:
+
+Entra en tu navegador a: https://developer.spotify.com/dashboard
+
+Inicia sesión con tu cuenta de Spotify.
+
+Haz clic arriba a la derecha en "Create app" (Crear aplicación).
+
+Rellena los datos de la siguiente manera:
+
+App name: BeatGrabber Personal
+
+App description: Descargas de música
+
+Redirect URI: http://127.0.0.1:8080
+
+Which API/SDKs are you planning to use?: Marca obligatoriamente la casilla Web API.
+
+Marca la casilla de los términos y condiciones abajo del todo y dale a "Save".
+
+Una vez dentro de tu nueva App, haz clic en el botón "Settings" (arriba a la derecha).
+
+Ahí verás tu Client ID. Cópialo y pégalo en el menú Premium de BeatGrabber.
+
+Justo debajo, dale a "View client secret" para ver tu Client Secret. Cópialo y pégalo también.
+
+Dale a Guardar en el programa. ¡Listo! Ya eres 100% independiente.
