@@ -1,0 +1,9 @@
+# Archivos compilados de PyInstaller
+build/
+dist/
+*.exe
+
+# Caché y entorno
+.cache
+__pycache__/
+*.pyc
